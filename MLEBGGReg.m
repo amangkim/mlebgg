@@ -1,6 +1,6 @@
 function [Y,Xf,Af] = MLEBGGReg(X,~,~)
 % MLEBGG Predictor which a 10-layered CNN
-% Made by Amang Kim
+% Designed by Amang Kim
 %
 
 % Input 1

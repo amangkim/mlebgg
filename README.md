@@ -1,7 +1,7 @@
 # ML Eanbled BGG
 Machine Learning Enabled Blokchain Governance Game
 
-### *MLEBGG_TestingDemo*  --  Matlab Programing Demo
+### *MLEBGG TestingDemo*  --  Matlab Programing Demo
 
 #### Run: ">> MLEBGG_TestingDemo"
 </br>

@@ -8,7 +8,7 @@ Machine Learning Enabled Blokchain Governance Game
 </br>
 
 ## Reference Citation
-* **Kim, S.-K.** (2025), <a href="https://www.mdpi.com/2076-3417/15/7/4069" target="_blank">**Enhanced Blockchain-Based Data Poisoning Defense Mechanism**, *Applied Sciences* **15** (7), 4069.</a></br>
+* **Kim, S.-K.** (2025), <a href="https://www.mdpi.com/2076-3417/15/7/4069" target="_blank">**Enhanced Blockchain-Based Data Poisoning Defense Mechanism**,</a> *Applied Sciences* **15** (7), 4069.</br>
 </br>
 
 

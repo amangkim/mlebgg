@@ -21,8 +21,9 @@ Machine Learning Enabled Blokchain Governance Game
 ```
 2025.04.20: Official reference is added.
 2021.11.15: First time uploaded for review purpose
+2026.04.02: Dataset for Hawkes Prcoess Attack has been added.
 
 
 ```
 
-#### Code created by *Amang Kim* [v0.5 || 2025/04/20]
+#### Code created by *Amang Kim* [v0.6 || 2026/04/02]
